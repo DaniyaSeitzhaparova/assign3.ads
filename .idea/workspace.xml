@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e32c8f2-56d2-4e95-8e4a-dc1e1484a962" name="Changes" comment="Implementing MyHashTable" />
+    <list default="true" id="3e32c8f2-56d2-4e95-8e4a-dc1e1484a962" name="Changes" comment="Implementing Main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715831379376</updated>
-      <workItem from="1715831380488" duration="348000" />
+      <workItem from="1715831380488" duration="2194000" />
     </task>
     <task id="LOCAL-00001" summary="Implementing MyHashTable">
       <option name="closed" value="true" />
@@ -62,7 +65,31 @@
       <option name="project" value="LOCAL" />
       <updated>1715831724619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Implementing MyHashTable">
+      <option name="closed" value="true" />
+      <created>1715832209735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715832209735</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implementing MyBinarySearchTree">
+      <option name="closed" value="true" />
+      <created>1715832292417</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715832292417</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implementing Main">
+      <option name="closed" value="true" />
+      <created>1715832616205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715832616205</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implementing MyHashTable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementing MyHashTable" />
+    <MESSAGE value="Implementing MyBinarySearchTree" />
+    <MESSAGE value="Implementing Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing Main" />
   </component>
 </project>
